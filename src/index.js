@@ -1,5 +1,5 @@
 // @ts-check
-import { createOpenAi } from "./openaiClient";
+import { createOpenAi } from "./openaiClient.js";
 
 const openAi = createOpenAi()
 
